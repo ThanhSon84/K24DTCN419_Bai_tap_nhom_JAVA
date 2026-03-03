@@ -1,0 +1,2 @@
+javac Flashcard.java FlashcardManager.java PracticeFrame.java FlashcardApp.java
+java FlashcardApp.java
